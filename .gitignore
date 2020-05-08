@@ -1,14 +1,17 @@
-# Ignore VS Code files
+# VS Code files
 .vscode/*
 .vscode/settings.json
-.vscode/tasks.json
+.viscid/tasks.json
 .vscode/launch.json
 .vscode/extensions.json
 *.code-workspace
+
+# macOS
 .DS_Store
 
-# Ignore Jupyter checkpoints
+# Jupyter
 *checkpoint.*
+.jupyter_symlinks
 
 # Ignore pickles
 *.pkl
