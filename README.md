@@ -1,4 +1,4 @@
-# TED Talks
+# TED Talks NLP
 ## Problem Statement
 Sex, politics, and religion are three of the main taboo topics that we rarely discuss. Yet, they are very important concepts.
 
